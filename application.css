@@ -1,0 +1,27 @@
+#fileTextBox{
+ -fx-border-color: blue;  
+ -fx-border-width: 0.5px; 
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10;
+}
+
+#ca{
+  -fx-background-color: lightgrey;
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10;
+}
+
+#cs{
+  -fx-background-color: lightgrey;
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10;
+}
+
+#oFile{
+	-fx-background-color: royalblue;
+  -fx-text-fill: white;
+  -fx-border-width: 0.5px;
+  -fx-border-radius: 10 10 10 10;
+  -fx-background-radius: 10 10 10 10;
+}
+
